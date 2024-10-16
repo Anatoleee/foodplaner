@@ -1,0 +1,46 @@
+[
+ {
+    "nom": "Quinoa",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Semoule",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Lentilles",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Pommes de Terre",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Patate Douce",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Mais",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Pommes de Terre Carré",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Frites",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Pommes de Terre Ronde",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Blé",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Purée",
+    "moment_plat": {"midi": 1, "soir": 1}
+ }
+]

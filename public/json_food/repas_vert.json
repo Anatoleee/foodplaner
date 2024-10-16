@@ -1,0 +1,86 @@
+[
+ {
+    "nom": "Epinards",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Légume Grillé",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Champignon",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Oignons",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Radis Gris",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Courgette",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Fondue de Poireaux",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Salade",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Endive",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Purée Verte",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Haricots",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Aubergine",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Carottes",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Radis",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Concombre",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Poivron",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Petit Pois",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Tomates",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Brocolis",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Purée orange",
+   "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+   "nom": "Haricots",
+   "moment_plat": {"midi": 1, "soir": 1}
+ }
+]

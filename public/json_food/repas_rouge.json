@@ -1,0 +1,90 @@
+[
+ {
+    "nom": "Gratin de Courgette",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Hamburger",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Galette de Légumes",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Cannelloni au Epinards",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Tomate Farcis",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Raviolis Frais",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Pizzas",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Gratin (Pomme de terre/choux fleur)",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Quiche",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Tarte a la Tomate",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Gratin Dauphinois",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Nouilles",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Couscous",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Soupe",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Salade César",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Mexicain",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Lasagne a la Ratatouille",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Pâtes",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Gnochis",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Risoto Riz Poulet",
+    "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+    "nom": "Chinois",
+    "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+    "nom": "Japonais",
+    "moment_plat": {"midi": 0, "soir": 1}
+ }
+]

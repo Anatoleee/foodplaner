@@ -1,0 +1,18 @@
+[
+{
+ "nom": "Pesto",
+ "moment_plat": {"midi": 1, "soir": 1}
+},
+{
+ "nom": "Carbonara",
+ "moment_plat": {"midi": 1, "soir": 1}
+},
+{
+ "nom": "Bolognaise",
+ "moment_plat": {"midi": 1, "soir": 1}
+},
+{
+ "nom": "Tomate",
+ "moment_plat": {"midi": 1, "soir": 1}
+}
+]

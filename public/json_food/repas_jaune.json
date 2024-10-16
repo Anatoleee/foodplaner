@@ -1,0 +1,54 @@
+[
+ {
+  "nom": "Poisson Pané",
+  "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+  "nom": "Filet Mignon",
+  "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+  "nom": "Escalope Poulet",
+  "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+  "nom": "Saucisses",
+  "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+  "nom": "Cordon Bleu Maison",
+  "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+  "nom": "Poisson Frais",
+  "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+  "nom": "Canard",
+  "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+  "nom": "Escalope Porc",
+  "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+  "nom": "Boeuf",
+  "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+  "nom": "Pomme de Terre",
+  "moment_plat": {"midi": 1, "soir": 1}
+ },
+ {
+  "nom": "Nuggets Maion",
+  "moment_plat": {"midi": 0, "soir": 1}
+ },
+ {
+  "nom": "Poisson à la Bordelaise",
+  "moment_plat": {"midi": 1, "soir": 0}
+ },
+ {
+  "nom": "Saumon",
+  "moment_plat": {"midi": 0, "soir": 1}
+ }
+]
