@@ -81,7 +81,7 @@ export default function Main(){
                     </table>
                     <button onClick={restart}>Générer un nouveau repas</button>
                 </div>
-                <p className="credit">Anatole CAPELLE 2024 ｜<a href="github.com/Anatoleee" className="credit_link"> github.com/Anatoleee </a></p>
+                <p className="credit">Anatole CAPELLE 2024 ｜<a href="https://github.com/Anatoleee" className="credit_link"> github.com/Anatoleee </a></p>
             </div>
         </div>
     );
