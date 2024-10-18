@@ -1,8 +1,12 @@
 from flask import Flask, jsonify
+from flask_cors import CORS
 import json
 import random
+import os
+import sys
 
 app = Flask(__name__)
+cors = CORS(app, origin="*")
 
 with open('/Users/anatole/PhpstormProjects/foodplaner/public/json_food/repas_rouge.json', 'r') as repas_rouge_json:
     repas_rouge = json.load(repas_rouge_json)
@@ -18,6 +22,10 @@ with open('/Users/anatole/PhpstormProjects/foodplaner/public/json_food/repas_ver
 
 with open('/Users/anatole/PhpstormProjects/foodplaner/public/json_food/sauces.json', 'r') as sauces_json:
     sauces = json.load(sauces_json)
+
+@app.route('/restart')
+def restart_script():
+    os.execv(sys.executable, ['python'] + sys.argv)
 
 def r_rouge(jour):
     rp_rouge_noms = random.choice(repas_rouge)
@@ -131,6 +139,11 @@ for jour in jds:
         dail_choice_day[jour] = "Riz Cantonnais"
         continue
 
+    if jour == "dimanche":
+        dail_choice_day[jour] = "Poulet Rôti"
+        dail_choice_night[jour] = "Croque-Monsieur"
+        continue
+
     dail_choice_day[jour] = random.choice(clr)
     dail_choice_night[jour] = random.choice(clr)
 
@@ -181,7 +194,7 @@ for jour in jds:
         dail_choice_night[jour] = combine_meals(vert, jaune)
 
 
-@app.route('/api')
+@app.route('/api', methods=['GET'])
 
 def api():
     return jsonify({"day": dail_choice_day, "night": dail_choice_night})
