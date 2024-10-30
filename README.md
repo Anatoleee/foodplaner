@@ -20,3 +20,8 @@ To run this website :
 ```bash
   npm run dev
 ```
+
+## Know bugs
+```bash
+  The script is giving the same meal for each days. Will fix it when i have time.
+```
